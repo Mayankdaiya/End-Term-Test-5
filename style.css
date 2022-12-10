@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: bisque;
+}
+#imag{
+    margin: 10px auto;
+    width: 60%;    
+}
+img{
+    border-radius: 20px;
+    width: 100%;
+}
+#main{
+    /* border: 2px solid red; */
+    margin: 30px auto;
+    width: 60%;
+    height: 600px;
+    display: flex;
+}
+/* div1 */
+#fortext{
+    background-color: white;
+    /* border: 2px solid red; */
+    width: 70%;
+    height: 100%;
+}
+#sec1{
+    padding: 5px;
+    background-color: rgb(187, 184, 184);
+    text-align: center;
+    font-size: 23px;
+    font-family: cursive;
+    font-weight: bold;
+}
+#temp{
+    background-color: bisque;
+    width:  6%;
+}
+/* div2 */
+#div2{
+    width: 25%;
+}
+/* diva */
+#search{
+    background-color: white;
+    /* border: 2px solid red; */
+    height: 30%;
+    width: 100%;
+}
+input{
+    margin-left: 3px;
+    margin-top: 35px;
+    width: 200px;
+    height: 30px;
+}
+#sec2{
+    display: flex;
+}
+button{
+    margin-top: 35px;
+    margin-left: 2px;
+    height: 30px;
+}
+/* divB */
+#Select{
+    margin-top: 30px;
+    background-color: white;
+    height: 30%;
+    width: 100%;
+    /*  */
+}
+#sec3{
+    padding: 10px;
+    padding-left: 30px;
+}
